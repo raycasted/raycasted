@@ -5,5 +5,4 @@ i'm raycasted and i make really good video games (sarcasm)
 * C++
 * C
 * C# (only with unity)
-* some more
-k bye
+* assembly (just to satisfy my masochism)
